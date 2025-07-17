@@ -6,3 +6,4 @@ Exercícios em Linguagem Swift UI do curso presencial do HackaTruck
 [Aula 04.zip](https://github.com/user-attachments/files/21266933/Aula.04.zip)
 [Aula 05.zip](https://github.com/user-attachments/files/21266934/Aula.05.zip)
 [Aula 06.zip](https://github.com/user-attachments/files/21266935/Aula.06.zip)
+[Aula 08.zip](https://github.com/user-attachments/files/21271646/Aula.08.zip)
