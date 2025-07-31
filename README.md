@@ -25,6 +25,6 @@ Aula 07 (Sem arquivos)
 
 
 Projeto Final (Oficial):
-[ResolveAi Oficial.zip](https://github.com/user-attachments/files/21520174/ResolveAi.Oficial.zip)
+
 
 
