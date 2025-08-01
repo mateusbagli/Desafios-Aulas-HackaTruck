@@ -1,4 +1,4 @@
-# Desafios-Aulas-HackaTruck
+# Desafios&ProjetoFinal-Aulas-HackaTruck
 Exercícios em Linguagem Swift UI do curso presencial do HackaTruck:
 
 [Aula 01.zip](https://github.com/user-attachments/files/21266768/Aula.01.zip)
@@ -23,8 +23,5 @@ Aula 07 (Sem arquivos)
 
 [Aula 11.zip](https://github.com/user-attachments/files/21355315/Aula.11.zip)
 
-
-Projeto Final (Oficial):
-
-
-
+Projeto Final:
+[ResolveAi Protótipo Oficial.zip](https://github.com/user-attachments/files/21539439/ResolveAi.Prototipo.Oficial.zip)
